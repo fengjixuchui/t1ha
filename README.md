@@ -2,7 +2,8 @@
 ========================================
 Fast Positive Hash, aka "Позитивный Хэш"
 by [Positive Technologies](https://www.ptsecurity.com).
-Included in the [Awesome C](https://github.com/kozross/awesome-c) list of open source C software.
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+The [Awesome C](https://github.com/kozross/awesome-c) list of open source C software.
 
 *The Future will Positive. Всё будет хорошо.*
 [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
